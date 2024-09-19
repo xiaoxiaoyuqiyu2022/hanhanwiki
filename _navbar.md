@@ -4,5 +4,5 @@
 
   * [官网主页](https://www.hanhanworld.com/)
   * [新闻页](https://www.hanhanworld.com/news.html)
-  * [wiki主页](https://www.hanhanworld.com/hanhanwiki/#/)
+  * [wiki主页](https://wiki.hanhanworld.com)
 
