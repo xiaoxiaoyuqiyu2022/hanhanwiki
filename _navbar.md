@@ -1,14 +1,8 @@
 <!-- _navbar.md 上面的导航栏  -->
 
-* 我的平台
+* 导航
 
-  * [知行达摩院](https://www.zxdmy.com)
-  * [微信公众号](https://img.zxdmy.com/md/20210129164325.jpg)
-  * [CSDN](https://cxhit.blog.csdn.net/)
-  * [Gitee](https://gitee.com/ZXAcademy)
-  * [GitHub](https://github.com/ZXAcademy)
+  * [官网主页](https://www.hanhanworld.com/)
+  * [新闻页](https://www.hanhanworld.com/news.html)
+  * [wiki主页](https://www.hanhanworld.com/hanhanwiki/#/)
 
-
-* 联系我们
-  * [邮箱](contacts/email.md)
-  * [电话](zh-contacts/phone.md)

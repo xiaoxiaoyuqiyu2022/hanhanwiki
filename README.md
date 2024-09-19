@@ -1,3 +1,3 @@
-# Headline
+# 憨憨世界服务器wiki
 
-> An awesome project.
+> 专注高版本的安慕希伺服器.
