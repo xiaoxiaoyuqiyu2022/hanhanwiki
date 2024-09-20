@@ -2,7 +2,7 @@
 
 - [准备工作](/article/readywork.md)
 
-- [新手指南](/article/greenhand/noob.md)
+- [新手指南](/article/noob.md)
   - [1.初来乍到](/article/firstjoin.md)
   - [2.再深入些(未完成)](/article/deepadventure.md)
   - [3.农业大亨(未完成)](/article/agritycoon.md)
