@@ -13,6 +13,7 @@
   <div id="app">加载中...</div>
   <script>
       window.$docsify = {
+          
           // 项目名称
           name: 'hanhanworld-wiki',
           // 仓库地址，点击右上角的Github章鱼猫头像会跳转到此地址
@@ -29,6 +30,16 @@
           subMaxLevel: 4,
           // 小屏设备下合并导航栏到侧边栏
           mergeNavbar: true,
+          pagination: {
+            previousText: '上一章节',
+            // or
+            nextText: {
+            '/en/': 'NEXT',
+            '/': '下一章节'
+            },
+            crossChapter: true,
+            crossChapterText: true,
+            },
           /*搜索相关设置*/
           search: {
               maxAge: 86400000,// 过期时间，单位毫秒，默认一天
@@ -40,7 +51,7 @@
                   '/': 'Type to search'
               },
               noData: '找不到结果',
-              depth: 4,
+              depth: 6,
               hideOtherSidebarContent: false,
               namespace: 'Docsify-Guide',
           }
@@ -56,5 +67,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <!--在所有的代码块上添加一个简单的Click to copy按钮来允许用户从你的文档中轻易地复制代码-->
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <!--下一页上一页-->>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>
